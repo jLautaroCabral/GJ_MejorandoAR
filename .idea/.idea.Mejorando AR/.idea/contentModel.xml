@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lautaro\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lautaro\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Mejorando AR.-1010564833.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lautaro\Desktop\GameJams\SSS_Project\Mejorando AR" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AvanzarEnX.cs" t="Include" />
+          <e p="Fideo.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="GeneralSeceneManager.cs" t="Include" />
+          <e p="Generator.cs" t="Include" />
+          <e p="GeneratorManager.cs" t="Include" />
+          <e p="KillZone.cs" t="Include" />
+          <e p="MenuManager.cs" t="Include" />
+          <e p="MoverCamara.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="QuizManager.cs" t="Include" />
+          <e p="QuizResourceManager.cs" t="Include" />
+          <e p="QuizTeamManager.cs" t="Include" />
+          <e p="QuizTeamResourceManager.cs" t="Include" />
+          <e p="Recolector.cs" t="Include" />
+          <e p="SavedData.cs" t="Include" />
+          <e p="SeguirEnX.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Mejorando AR.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
